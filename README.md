@@ -6,8 +6,8 @@
 `Hand_Face_Detection` (Mediapipe)
 
 # STRUCTURE
-- [X] FEATURE
-- [X] SERVER
+- [X] FEATURE_EXTRACTOR
+- [X] ENCRYPTION
 - [X] SYSTEM
 
 # VERSION OF PYTHON
