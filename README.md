@@ -10,6 +10,8 @@
 - [X] SERVER
 - [X] SYSTEM
 
+# VERSION OF PYTHON
+    `FEATURE` python2.0
 
 ### HOW TO RUN
     python API.py [--user]
