@@ -18,14 +18,14 @@ def Dissimilarity (user: numpy.ndarray, db: numpy.ndarray,):
 
 if __name__ == "__main__":
     
-    person_pics = os.listdir("./square_Color_features") # 某一类人脸路径下的全部人脸数据文件
+    person_pics = os.listdir("./square_features") # 某一类人脸路径下的全部人脸数据文件
     for name1 in person_pics:
         for name2 in person_pics:
            
-            X = numpy.load("./square_Color_features/"+ name1)
+            X = numpy.load("./square_features/"+ name1)
             X = numpy.squeeze(X)
             
-            Y = numpy.load("./square_Color_features/"+ name2)
+            Y = numpy.load("./square_features/"+ name2)
             Y = numpy.squeeze(Y)
     
             print("{} VS {} dissmilarity = ".format(name1, name2), Dissimilarity(X,Y))
