@@ -14,5 +14,5 @@
 `FEATURE` `API` python3.7
 `SERVER` python3.8
 
-### HOW TO RUN
+# HOW TO RUN
     python API.py [--user]
