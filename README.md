@@ -53,6 +53,10 @@ square = self.image[210:210+400,450:450+380] # change this line to get perfect s
 ```python
 pip install requirements.txt # to get all package (some package is not necessaire)
 ```
+* `number of photo` for each clic on botton can be changed:
+```python
+404|   photo = 6 # to take 5 picture each clic 
+``` 
 # HOW TO RUN
 ```python
 python API.py [--user]
