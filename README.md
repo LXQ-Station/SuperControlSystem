@@ -16,9 +16,10 @@
 
 
 # IT CAN
-- [X] FEATURE EXTRACTOR
-- [X] ENCRYPTION
+- [X] FACE FEATURE EXTRACTOR
+- [X] FULLY HOMOMORPHIC ENCRYPTION
 - [X] SYSTEM WITHOUT TOUCH
+- [X] LIVE DETECTION (BLINK DETECTION)
 
 # VERSION OF PYTHON
 `FEATURE` `API` python3.7
@@ -26,7 +27,7 @@
 
 # TIPS
 * `weight document` already include
-* `path` needs to change 
+* `path` may need to change (relative path is in used, normally not necessary to change) 
 * `image` needs be prepared by yourself (upload or use API.py to take pictures)
 * `image` should be square and use same clear light 
 * `API.py` can cut a almost square
