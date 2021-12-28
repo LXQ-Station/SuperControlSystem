@@ -41,6 +41,8 @@ pip install requirements.txt # to get all package (some package is not necessair
 # HOW TO RUN
 ```python
 python API.py [--user]
+python batch_extractor.py # in the folder FEATURE, need to add your dataset folder 
+python FHE.py # in the folder SERVER, need to add your feature's numpy doc
 ```
 ![STAR](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/star.svg)
 
