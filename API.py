@@ -16,7 +16,7 @@ import numpy as np
 import argparse
 import random
 from FaceFHE import *
-from feature_extract import *
+#from feature_extract import * 
 
 
 
