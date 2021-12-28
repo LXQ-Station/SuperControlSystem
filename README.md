@@ -21,7 +21,7 @@
 * `weight document` already include
 * `path` needs to change 
 * `image` needs be prepared by yourself (upload or use API.py to take pictures)
-* `image` should be square, user same clear light 
+* `image` should be square and use same clear light 
 * `API.py` can cut a almost square
 ```python
 square = self.image[210:210+400,450:450+380] # change this line to get perfect square
