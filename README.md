@@ -6,9 +6,9 @@
 `Hand_Face_Detection` (Mediapipe)
 
 # IT CAN
-- [X] FEATURE_EXTRACTOR
+- [X] FEATURE EXTRACTOR
 - [X] ENCRYPTION
-- [X] SYSTEM
+- [X] SYSTEM WITHOUT TOUCH
 
 # VERSION OF PYTHON
 `FEATURE` `API` python3.7
