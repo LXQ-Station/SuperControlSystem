@@ -11,7 +11,8 @@
 - [X] SYSTEM
 
 # VERSION OF PYTHON
-    `FEATURE` python2.0
+`FEATURE` `API` python3.7
+`SERVER` python3.8
 
 ### HOW TO RUN
     python API.py [--user]
