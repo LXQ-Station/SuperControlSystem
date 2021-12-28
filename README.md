@@ -31,4 +31,4 @@ pip install requirements.txt # to get all package (some package is not necessair
 ```python
 python API.py [--user]
 ```
-![STAR][https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/star.svg]
+![STAR](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/star.svg)
