@@ -1,9 +1,9 @@
 # SuperControlSystem
-face_recognization (FaceNet) 
+`Face_Recognization` (FaceNet) 
 
-TFHE (HNP) 
+`TFHE` (HNP) 
 
-hand_face_detection (Mediapipe)
+`Hand_Face_Detection` (Mediapipe)
 
 ### HOW TO RUN
     python API.py [--user]
