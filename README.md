@@ -31,3 +31,4 @@ pip install requirements.txt # to get all package (some package is not necessair
 ```python
 python API.py [--user]
 ```
+！[STAR!][star.svg]
