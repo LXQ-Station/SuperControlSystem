@@ -41,16 +41,12 @@ if __name__ == "__main__":
             ,function, function_string, keys, min_weight, max_weight, num_weights
         )
 
-    # 3 - This is the FHE execution, done on the untrusted server
         encrypted_result = running_fhe_computation_on_untrusted_server(
             fhe_function, function_string, public_keys, encrypted_weights
         )
         '''
 
         '''
-    # 5 - Finally, for the check and demo, comparing the results. Remark that
-    # in a real product, once it is known that FHE results are precise
-    # enough
         diff = numpy.abs(fhe_result - clear_result)
         ratio = diff / numpy.max(clear_result)
 
