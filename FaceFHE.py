@@ -16,7 +16,7 @@ from imutils import face_utils
 import imutils
 import dlib
 
-from feature_extract import *
+#from feature_extract import *
 from utils import *
 
 
