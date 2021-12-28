@@ -4,6 +4,9 @@
 `TFHE` (HNP) 
 
 `Hand_Face_Detection` (Mediapipe)
+# SHOW
+![result](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/result.png)
+
 
 # IT CAN
 - [X] FEATURE EXTRACTOR
@@ -31,4 +34,4 @@ pip install requirements.txt # to get all package (some package is not necessair
 ```python
 python API.py [--user]
 ```
-![STAR](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/star.svg)
+![STAR](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/star.svg)
