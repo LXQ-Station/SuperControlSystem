@@ -4,7 +4,7 @@
 `TFHE` (HNP) 
 
 `Hand_Face_Detection` (Mediapipe)
-# SHOW
+# DEMO --pesudo
 ![result](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/result.png)
 
 
