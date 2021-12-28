@@ -18,6 +18,10 @@
 * `weight document` is already in
 * `path` needs to change 
 * `image` needs be prepared by yourself (upload or use API.py to take pictures)
-
+* `image` should be square, user same clear light 
+* `API.py` can cut a almost square, 
+```python
+* square = self.image[210:210+400,450:450+380]
+'''
 # HOW TO RUN
     python API.py [--user]
