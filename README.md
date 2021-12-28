@@ -21,7 +21,9 @@
 * `image` should be square, user same clear light 
 * `API.py` can cut a almost square
 ```python
-square = self.image[210:210+400,450:450+380]
+square = self.image[210:210+400,450:450+380] # change this line to get perfect square
 ```
 # HOW TO RUN
+```python
     python API.py [--user]
+```
