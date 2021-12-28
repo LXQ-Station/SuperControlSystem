@@ -18,7 +18,7 @@
 `SERVER` python3.8
 
 # TIPS
-* `weight document` is already in
+* `weight document` already include
 * `path` needs to change 
 * `image` needs be prepared by yourself (upload or use API.py to take pictures)
 * `image` should be square, user same clear light 
