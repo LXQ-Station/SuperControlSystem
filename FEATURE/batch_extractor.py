@@ -98,7 +98,7 @@ if __name__ == "__main__":
     # 建立facenet模型
     facenet = load_model('./model/facenet_keras.h5') 
     #facenet.summary() #paramater of our pre-trained model
-    images, labels = load_dataset('./square_WB/')
+    images, labels = load_dataset('./square/')
     #print(images)
     
     # create 128-Demensions features vector
