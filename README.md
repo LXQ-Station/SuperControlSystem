@@ -35,3 +35,9 @@ pip install requirements.txt # to get all package (some package is not necessair
 python API.py [--user]
 ```
 ![STAR](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/star.svg)
+
+# RESULT FHE
+![STAR](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/R_FHE.jpg)
+# RESULT FACENET
+![STAR](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/R2_FACE.jpg)
+![STAR](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/R1_FACE.jpg)
