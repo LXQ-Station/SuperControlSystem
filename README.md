@@ -23,7 +23,7 @@
 ```python
 square = self.image[210:210+400,450:450+380] # change this line to get perfect square
 ```
-* `requirement.txt` is ready
+* `requirement.txt` is ready and I suggest you to install in your virtual environnement
 ```python
 pip install requirements.txt # to get all package (some package is not necessaire)
 ```
