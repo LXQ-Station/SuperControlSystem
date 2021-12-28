@@ -36,8 +36,9 @@ python API.py [--user]
 ```
 ![STAR](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/star.svg)
 
-# RESULT FHE
+# RESULT 
+## FHE
 ![STAR](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/R_FHE.jpg)
-# RESULT FACENET
+## FACENET
 ![STAR](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/R2_FACE.jpg)
 ![STAR](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/R1_FACE.jpg)
