@@ -5,10 +5,10 @@
 
 `Hand_Face_Detection` (Mediapipe)
 
-#STRUCTURE
-- [ ] FEATURE
-- [ ] SERVER
-- [ ] SYSTEM
+# STRUCTURE
+- [X] FEATURE
+- [X] SERVER
+- [X] SYSTEM
 
 
 ### HOW TO RUN
