@@ -24,7 +24,7 @@
 # DEMO (pesudo)
 ![result](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/result.png)
 
-# BOTTON
+## BOTTON
 - [X] focus on your face (Blue one on the right side)
 - [X] take a photo but you need to activate the blue botton at first (grey one the the right side)
 - [ ] login (green one on the left side)
