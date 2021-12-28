@@ -1,9 +1,16 @@
 # SuperControlSystem
 `Face_Recognization` (FaceNet) 
 
-`TFHE` (HNP) 
+`面部识别` (FaceNet)
+
+`Fully Homomorphic Encryption over the Torus` (HNP) 
+
+`环面全同态加密` (TFHE)
+
 
 `Hand_Face_Detection` (Mediapipe)
+
+`手脸检测` (Mediapipe) 
 # DEMO (pesudo)
 ![result](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/result.png)
 
