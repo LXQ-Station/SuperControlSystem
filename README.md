@@ -23,6 +23,9 @@
 ```python
 square = self.image[210:210+400,450:450+380] # change this line to get perfect square
 ```
+* `requirement.txt` is ready
+```python
+pip install requirements.txt # to get all package (some package is nnot necessaire)
 # HOW TO RUN
 ```python
 python API.py [--user]
