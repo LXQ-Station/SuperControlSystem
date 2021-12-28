@@ -32,10 +32,10 @@ def resize_image(image, height = IMAGE_SIZE, width = IMAGE_SIZE):
         pass 
     
     # RGB颜色
-    BLACK = [255,255,255] # [255,255,255] is white
+    white = [255,255,255] # RGB 
     # 给图片增加padding，使图片长、宽相等
     # top, bottom, left, right分别是各个边界的宽度，cv2.BORDER_CONSTANT is a "border type"，which means use the same color to padding
-    constant = cv2.copyMakeBorder(image, top, bottom, left, right, cv2.BORDER_CONSTANT, value = BLACK)
+    constant = cv2.copyMakeBorder(image, top, bottom, left, right, cv2.BORDER_CONSTANT, value = white)
     
     
     return cv2.resize(constant, (height, width))
@@ -64,15 +64,6 @@ def load_dataset(data_dir):
     labels = np.array(labels)
     return images, labels    
     
-    
-  
-
-#====================================================================================#
-# 建立facenet模型
-
-facenet = load_model('./model/facenet_keras.h5') 
-#facenet.summary() #paramater of our pre-trained model
-
 #====================================================================================#
 # 进行 Embedding
 
@@ -104,11 +95,14 @@ def img_to_encoding(images, label, model):
 #====================================================================================#
 
 if __name__ == "__main__":
+    # 建立facenet模型
+    facenet = load_model('./model/facenet_keras.h5') 
+    #facenet.summary() #paramater of our pre-trained model
     images, labels = load_dataset('./square_WB/')
     #print(images)
     
     # create 128-Demensions features vector
-    FINISH = img_to_encoding(images, labels, facenet) # 考虑这里分批执行，否则可能内存不够，这里在img_to_encoding函数里通过predict的batch_size参数实现
+    FINISH = img_to_encoding(images, labels, facenet) 
 
     
     
