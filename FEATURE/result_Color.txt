@@ -1,0 +1,22 @@
+feature_color_B1.jpg.npy VS feature_color_G1.jpg.npy dissmilarity =  0.3744657039642334
+feature_color_B1.jpg.npy VS feature_color_G3.jpg.npy dissmilarity =  0.3919086456298828
+feature_color_B1.jpg.npy VS feature_color_G2.jpg.npy dissmilarity =  0.3580646514892578
+feature_color_B2.jpg.npy vs feature_color_G1.jpg.npy dissmilarity =  0.4137920141220093
+feature_color_B2.jpg.npy vs feature_color_G3.jpg.npy dissmilarity =  0.4305813312530517
+feature_color_B2.jpg.npy vs feature_color_G2.jpg.npy dissmilarity =  0.3996578454971313
+feature_color_B3.jpg.npy VS feature_color_G1.jpg.npy dissmilarity =  0.3502562642097473
+feature_color_B3.jpg.npy VS feature_color_G3.jpg.npy dissmilarity =  0.3542528748512268
+feature_color_B3.jpg.npy VS feature_color_G2.jpg.npy dissmilarity =  0.3305270671844482
+
+
+
+feature_color_B1.jpg.npy VS feature_color_B2.jpg.npy dissmilarity =  0.0652502775192260
+feature_color_B1.jpg.npy VS feature_color_B3.jpg.npy dissmilarity =  0.0191324949264526
+feature_color_B2.jpg.npy VS feature_color_B1.jpg.npy dissmilarity =  0.0652502775192260
+feature_color_B2.jpg.npy VS feature_color_B3.jpg.npy dissmilarity =  0.0843646526336669
+feature_color_B3.jpg.npy VS feature_color_B2.jpg.npy dissmilarity =  0.0843646526336669
+feature_color_B3.jpg.npy VS feature_color_B1.jpg.npy dissmilarity =  0.0191324949264526
+
+feature_color_G1.jpg.npy VS feature_color_G3.jpg.npy dissmilarity =  0.0311641693115234
+feature_color_G1.jpg.npy VS feature_color_G2.jpg.npy dissmilarity =  0.0270911455154418
+feature_color_G2.jpg.npy VS feature_color_G3.jpg.npy dissmilarity =  0.0541740059852600

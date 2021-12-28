@@ -1,0 +1,22 @@
+feature_wb_G1.jpg.npy VS feature_wb_B3.jpg.npy dissmilarity =  0.4358545541763305
+feature_wb_G1.jpg.npy VS feature_wb_B2.jpg.npy dissmilarity =  0.4396719932556152
+feature_wb_G1.jpg.npy VS feature_wb_B1.jpg.npy dissmilarity =  0.4575181007385254
+feature_wb_G2.jpg.npy VS feature_wb_B1.jpg.npy dissmilarity =  0.4947542548179626
+feature_wb_G2.jpg.npy VS feature_wb_B3.jpg.npy dissmilarity =  0.4814456701278686
+feature_wb_G2.jpg.npy VS feature_wb_B2.jpg.npy dissmilarity =  0.4734457731246948
+feature_wb_G3.jpg.npy VS feature_wb_B3.jpg.npy dissmilarity =  0.3714003562927246
+feature_wb_G3.jpg.npy VS feature_wb_B2.jpg.npy dissmilarity =  0.4123528003692627
+feature_wb_G3.jpg.npy VS feature_wb_B1.jpg.npy dissmilarity =  0.4099868535995483
+
+
+
+feature_wb_G3.jpg.npy VS feature_wb_G2.jpg.npy dissmilarity =  0.0715909004211425
+feature_wb_G3.jpg.npy VS feature_wb_G1.jpg.npy dissmilarity =  0.0396763086318969
+feature_wb_G1.jpg.npy VS feature_wb_G2.jpg.npy dissmilarity =  0.0282651782035827
+feature_wb_G1.jpg.npy VS feature_wb_G3.jpg.npy dissmilarity =  0.0396763086318969
+feature_wb_G2.jpg.npy VS feature_wb_G1.jpg.npy dissmilarity =  0.0282651782035827
+feature_wb_G2.jpg.npy VS feature_wb_G3.jpg.npy dissmilarity =  0.0715909004211425
+
+feature_wb_B2.jpg.npy VS feature_wb_B3.jpg.npy dissmilarity =  0.0772160291671752
+feature_wb_B2.jpg.npy VS feature_wb_B1.jpg.npy dissmilarity =  0.0514237880706787
+feature_wb_B3.jpg.npy VS feature_wb_B1.jpg.npy dissmilarity =  0.0278139710426330
