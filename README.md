@@ -13,12 +13,14 @@
 `手脸检测` (Mediapipe)
 
 # STEP
+```python
     1.run API.py: take a photo
     2.move the generated image to new folder in folder FEATURE named "./square"
     3.run batch_extractor.py to get the relative feature which saved as numpy
-    4.to test the picture you have taken is ok or not, you can run dissimilarity.py 
+    4.to test the picture you have taken is ok or not, you can run dissimilarity.py before that, you need to make sure "features" are in your generated folder "./square_features"
     5.move "features" to folder SERVER and change the path in FHE.py
     6.run FHE.py
+```
 # DEMO (pesudo)
 ![result](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/result.png)
 
