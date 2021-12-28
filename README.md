@@ -25,5 +25,5 @@ square = self.image[210:210+400,450:450+380] # change this line to get perfect s
 ```
 # HOW TO RUN
 ```python
-    python API.py [--user]
+python API.py [--user]
 ```
