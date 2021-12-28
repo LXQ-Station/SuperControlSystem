@@ -26,7 +26,7 @@
 
 # BOTTON
 - [X] focus on your face (Blue one on the right side)
-- [X] take a photo (grey one the the right side)
+- [X] take a photo but you need to activate the blue botton at first (grey one the the right side)
 - [ ] login (green one on the left side)
 - [ ] logout (red one on the left side)
 
