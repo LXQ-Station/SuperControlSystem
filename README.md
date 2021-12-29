@@ -11,7 +11,7 @@
 `Hand_Face_Detection` (Mediapipe)
 
 `手脸检测` (Mediapipe)
-
+<!--
 # STEP
 ```python
     1.run API.py: take a photo (close index and thumb finger to select and move ; close index and middle finger to select and push these two finger down together to realize clic on the botton)
@@ -21,6 +21,7 @@
     5.move "features" to folder SERVER and change the path in FHE.py
     6.run FHE.py
 ```
+-->
 # DEMO (pesudo)
 ![result](https://raw.githubusercontent.com/liziyu0104/SuperControlSystem/main/SHOW_IMAGE/result.png)
 
